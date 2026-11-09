@@ -1,0 +1,5 @@
+.venv
+notebooks/log
+mise.toml
+model
+data
